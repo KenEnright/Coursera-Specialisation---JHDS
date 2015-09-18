@@ -1,5 +1,7 @@
 # Coursera-Specialisation---JHDS
 
+This is test file for the purpose of trialing Github.
+
 ## John Hopkins Data Science Specialisation Coursera
 As a personal challenge, I am undertaking the Data science specialisation route to develop a greater understanding of the concepts, methodologies and tools.
 
