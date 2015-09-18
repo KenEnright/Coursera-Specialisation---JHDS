@@ -1,7 +1,7 @@
 # Coursera-Specialisation---JHDS
 
 ## John Hopkins Data Science Specialisation Coursera
-As a challenge, I am undertaking the Data science specialisation route to develop a greater understanding of the concepts, methodologies and tools.
+As a personal challenge, I am undertaking the Data science specialisation route to develop a greater understanding of the concepts, methodologies and tools.
 
 ### Course subjects
 
